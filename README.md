@@ -346,26 +346,25 @@ http://localhost:5173
 
 ## Login Page
 
-*(Add Screenshot Here)*
+![Login Page](assets/login.png)
 
 ---
 
 ## Dashboard
 
-*(Add Screenshot Here)*
+![Dashboard](assets/dashboard.png)
 
 ---
 
 ## Upload Document
 
-*(Add Screenshot Here)*
+![Upload](assets/upload.png)
 
 ---
 
 ## Chat Interface
 
-*(Add Screenshot Here)*
-
+![Chat](assets/chat.png)
 ---
 
 # 🚀 Future Enhancements
@@ -406,8 +405,6 @@ B.Tech – Artificial Intelligence & Data Science
 GitHub:
 https://github.com/divyamaddula05
 
-LinkedIn:
-(Add your LinkedIn profile link)
 
 ---
 
