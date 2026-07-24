@@ -352,7 +352,7 @@ http://localhost:5173
 
 ## Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/Dashboard.png)
 
 ---
 
