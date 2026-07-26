@@ -3,6 +3,11 @@
 ### AI-Powered Document Question Answering System using Retrieval-Augmented Generation (RAG)
 
 Upload PDF documents, ask questions in natural language, and receive context-aware answers powered by Google's Gemini AI.
+## 🚀 Live Demo
+
+- **Frontend:** https://intelli-doc-ai-bice.vercel.app
+- **Backend API:** https://intellidoc-ai-backend.onrender.com
+- **API Documentation (Swagger):** https://intellidoc-ai-backend.onrender.com/docs
 
 ---
 
